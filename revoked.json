@@ -1,0 +1,12 @@
+{
+  "algorithm": "Ed25519",
+  "payload": {
+    "kind": "a2z-revocation-list",
+    "schema": 1,
+    "product": "A2Z Recap",
+    "version": 1,
+    "issued_at": "2026-11-10T14:38:32+00:00",
+    "revoked_license_ids": []
+  },
+  "signature": "014dd42a9bd7001e8dc1758a3abe6ea6bc1c9335605902f3e61343ee738a71c6173b11693d6310e359859ed748bfdfd3781abf4889f17f1ebf291d64fcaff806"
+}
