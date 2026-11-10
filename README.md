@@ -1,0 +1,1 @@
+# a2z-studio-license-status
